@@ -35,6 +35,8 @@ Example
 1 2 3
 ## Output
 0
+
 2
+
 -1
 
